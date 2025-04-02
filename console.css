@@ -1,5 +1,4 @@
-<style>
-        body {
+body {
             font-family: 'Poppins', sans-serif;
             margin: 0;
             padding: 0;
@@ -107,4 +106,4 @@
             p { font-size: 1rem; }
             .btn { font-size: 1rem; padding: 12px 30px; }
         }
-    </style>
+    
